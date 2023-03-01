@@ -1,0 +1,1 @@
+# nestjs-use-factory-bug
